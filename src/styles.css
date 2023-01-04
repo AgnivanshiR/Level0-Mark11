@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1,
+h2,
+label,
+div {
+  padding: 0.5rem;
+  margin: 1rem;
+  text-align: center;
+}
+
+button {
+  font-weight: bold;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: green;
+  color: white;
+}
